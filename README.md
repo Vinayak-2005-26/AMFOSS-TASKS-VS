@@ -13,7 +13,7 @@ In the next 6 months, my primary goal is to further develop my coding skills and
 I will contribute to the club by striving to excel as a coder and constantly improving my abilities. I aim to share my knowledge with fellow members, assist those who may need help, and actively participate in club activities. My dedication and growth-oriented mindset will positively influence the club's environment.
 
 ## WHAT ARE YOUR THOUGHTS AND FEEDBACK ON THE PRAVESHAN SELECTION PROCESS?
-The Praveshan selection process was both fun and exciting for me. Admittedly, I faced significant challenges as the tasks pushed me out of my comfort zone. However, my mentor, Kshitij Thareja, played a crucial role as a guiding light throughout this journey. His unwavering support and guidance helped me navigate the difficulties. I'm also grateful to Abhinav Pandey for his contributions to the process. While it was frustrating at times, the experience was ultimately rewarding and helped me grow as an individual.
+The Praveshan selection process was both fun and exciting for me. Admittedly, I faced significant challenges as the tasks pushed me out of my comfort zone. However, my mentors, Chimnayyy Ajith,and Aniketh bro, played a crucial role as a guiding light throughout this journey. His unwavering support and guidance helped me navigate the difficulties. I'm also grateful to Hridesh bro's support. While it was frustrating at times, the experience was ultimately rewarding and helped me grow as an individual.
 
 ## Tasks Status
 
