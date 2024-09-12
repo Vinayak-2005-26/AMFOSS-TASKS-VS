@@ -29,7 +29,7 @@ The Praveshan selection process was both fun and exciting for me. Admittedly, I 
 | Task-07 [View folder](https://github.com/Vinayak-2005-26/AMFOSS-TASKS-VS/tree/main/Task_7)    | pirates_dilemma| Completed |
 | Task-08    | Blog Burst  | Not Completed  |
 | Task-09   | HERO-DEX!  | Not Completed  |
-| Task-10 [View Folder](https://github.com/Vinayak-2005-26/AMFOSS-TASKS-VS/tree/main/Task_10)  | Operation Pixel Merge | Not Completed  |
+| Task-10 [View Folder](https://github.com/Vinayak-2005-26/AMFOSS-TASKS-VS/tree/main/Task_10)  | Operation Pixel Merge | Completed  |
 |   |  |   |
 |    |   |   |
 |  |   |   |
