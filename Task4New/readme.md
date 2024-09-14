@@ -7,9 +7,7 @@ Welcome to PagePal! This Telegram bot is designed to help book enthusiasts like 
 - **Book Recommendations by Genre**: Type a book genre to receive a list of recommended books.
 - **Detailed Book Information**: Each recommendation includes the book's title, author, description, publication year, language, and a preview link.
 - **Customizable Commands**: The bot includes additional commands for user interaction.
-
-## Setup and Installation
-
-Follow these steps to set up and run PagePal:
+# Blockers.........
+In this i have included the api token as my bot didn't give me results as i put it in the .env file
 
 
