@@ -14,7 +14,5 @@ Follow these steps to get started with the challenge:
 
 First, clone the repository containing the challenge code and files:
 
-```bash
-git clone https://github.com/your-repo/TerminalTrolly-Challenge.git
-cd TerminalTrolly-Challenge
+## My friend helped me in doing this at first my code was running.
 
