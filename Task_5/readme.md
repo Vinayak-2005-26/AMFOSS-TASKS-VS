@@ -10,9 +10,6 @@ In this challenge, you'll interact with the backend of a trendy online hypermark
 
 Follow these steps to get started with the challenge:
 
-### 1. Clone the Repository
-
-First, clone the repository containing the challenge code and files:
 
 ## My friend helped me in doing this at first my code was running.
 
