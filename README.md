@@ -19,7 +19,7 @@ The Praveshan selection process was both fun and exciting for me. Admittedly, I 
 
 | TaskLisk | Description | Status |
 |:---------|:--------:|---------:|
-| Task-00   | Install Linux   | Completed   |
+| Task-00 [view folder](https://github.com/Vinayak-2005-26/AMFOSS-TASKS-VS/blob/main/Screenshot%20from%202024-09-14%2012-51-24.png) | Install Linux   | Completed   |
 | Task-01 [view folder](https://github.com/Vinayak-2005-26/AMFOSS-TASKS-VS/blob/main/Screenshot%202024-08-22%20173540.png)    |  Type Maestro   | Attempted |
 | Task-02    | Terminal Chaos  | Not Completed   |
 | Task-03 [View Folder](https://github.com/Vinayak-2005-26/AMFOSS-TASKS-VS/tree/main/task3)   | Hello,World!   | Completed   |
