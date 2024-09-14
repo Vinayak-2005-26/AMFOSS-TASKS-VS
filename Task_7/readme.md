@@ -13,13 +13,4 @@ This CLI app helps users fetch subtitles for MP4 video files. The application wi
 - Allows users to choose from the list of subtitles.
 - Downloads the selected subtitles.
 
-## Getting Started
-
-### 1. Clone the Repository
-
-Start by cloning the repository to your local machine:
-
-```bash
-git clone https://github.com/your-repo/pirates-dilemma.git
-cd pirates-dilemma
 
